@@ -1,7 +1,8 @@
-# ML-Breast-cancer-prediction-model
+### ML-Breast-cancer-prediction-model
 A Breast cancer prediction Machine Learning Model using KNN algorithm (python)
 
-# Description od Data used
+Description od Data used:
+
 This breast cancer database was obtained from the university of wiscousin Hospitals, Madison from DR. William H
 It contains information on wether a tumor is malignant or not, given a set of attributes.
 Title: Wiscousin Breast Cancer Database (January 8, 1991).
