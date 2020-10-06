@@ -1,7 +1,7 @@
 ### ML-Breast-cancer-prediction-model
 A Breast cancer prediction Machine Learning Model using KNN algorithm (python)
 
-###Description of Data used:
+Description of Data used:
 
 This breast cancer database was obtained from the university of wiscousin Hospitals, Madison from DR. William H
 It contains information on wether a tumor is malignant or not, given a set of attributes.
@@ -11,8 +11,7 @@ Sources:
           University of Wiscousin Hospitals
           Madison, Wiscousin
           USA
-          -- Donor: Olvi Mangasarian (mangasarian@cs.wisc.edu)
-          Recieved by David W. Aha (aha@jhu.edu)
+          
  Number of instances: 699
  Number of attributes: 10
    Attribute                    Domain
